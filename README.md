@@ -1,6 +1,3 @@
-# Life-Expectancy-Clustering
-K-Means clustering analysis of global life expectancy data to identify health patterns and group similar countries
-
 # Life Expectancy Clustering Analysis (2024)
 
 This project applies K-Means clustering to group countries based on life expectancy-related features. It uses data preprocessing techniques and the Elbow Method to determine the optimal number of clusters. The goal is to explore global health patterns and similarities between countries.
