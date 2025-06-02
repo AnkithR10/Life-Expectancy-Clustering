@@ -1,4 +1,4 @@
-K-Means clustering analysis of global life expectancy data to identify health patterns and group similar countries (2024).
+K-Means clustering analysis of global life expectancy data to identify health patterns and group similar countries(2024).
 
 # Life Expectancy Clustering Analysis (2024)
 
